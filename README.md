@@ -4,8 +4,6 @@
 
 An intelligent security log analysis system that uses machine learning to detect network intrusions and anomalies from SOC logs. This project demonstrates enterprise-level security analytics using Python, scikit-learn, PyTorch, and Streamlit.
 
----
-
 ## 🎯 Features
 
 - **Multiple ML Models**: Isolation Forest, One-Class SVM, and Autoencoder (Deep Learning)
