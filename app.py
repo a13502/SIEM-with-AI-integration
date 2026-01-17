@@ -1,5 +1,5 @@
 """
-Streamlit Dashboard for AI Security Log Analyzer
+This will be the entry point......
 Main entry point for the web application
 """
 
